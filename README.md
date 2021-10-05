@@ -29,7 +29,7 @@ Generalize the pattern of each category and reduce error influenced by outliers,
 Storage of instance points in k-dimensional space for fast retrieval.
 #### Ball-Tree [implement with optimal k=83 in sklearn](Ball_tree.py)
 Splitting data over a series of nested hyperspheres.
-#### Comparison
+### Comparison
 | Algorithm      | Similarity metric     | k-value     | Accuracy | F1-score| Time|
 | ---------- | :-----------:  | :-----------: |:-----------: |:-----------: |:-----------: |
 |KNN	|Euclidean distance	|53|	0.8484|	0.8284	|1341.5s|
